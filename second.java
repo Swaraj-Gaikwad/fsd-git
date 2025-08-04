@@ -1,7 +1,7 @@
-public class first {
-    public static void main(String args[]) {
+// public class first {
+//     public static void main(String args[]) {
         
-        system.out.println(x:"Hello From Second class!");
+//         system.out.println("Hello From Second class!");
         
-    }
-}
+//     }
+// }

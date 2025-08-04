@@ -1,8 +1,8 @@
-public class first {
-    public static void main(String args[]) {
+// public class first {
+//     public static void main(String args[]) {
         
-        system.out.println(x:"Hello From first class!");
-        // Pull Changes
+//         system.out.println("Hello From first class!");
+//         // Pull Changes
         
-    }
-}
+//     }
+// }
